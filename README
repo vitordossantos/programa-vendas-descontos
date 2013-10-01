@@ -1,0 +1,6 @@
+para gerar o executavel digite na linha de comando e dentro do diretorio para onde os arquivos foram mandados:
+
+     g++ ./src/*.cpp vendasdescontos.cpp
+
+
+um executavel "a.out" vai ser gerado.
