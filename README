@@ -1,6 +1,14 @@
-para gerar o executavel digite na linha de comando e dentro do diretorio para onde os arquivos foram mandados:
+Esse codigo foi inscrito no sistema operacional Linux Ubuntu 12.05
+Ele usou o compilador g++ obtido usando o comando apt-get
+
+Para gerar o executavel digite no terminal e dentro do diretorio para onde os arquivos foram mandados:
 
      g++ ./src/*.cpp vendasdescontos.cpp
 
 
 um executavel "a.out" vai ser gerado.
+
+
+Para gerar o executavel do programa que testa os metodos das classes digite dentro do diretorio num terminal:
+
+     g++ ./src/*.cpp vendasdescontos.cpp

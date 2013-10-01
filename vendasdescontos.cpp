@@ -309,8 +309,6 @@ class Shoppingcart
 
 
 
-
-
 // Funcao que faz a mesma coisa que atoi fazia em C
  unsigned Atoi (string productID)
   
@@ -332,6 +330,8 @@ class Shoppingcart
 
 
      }
+
+
 
 
 
